@@ -5,3 +5,6 @@ Se te bota?
 Agrego tu informacion:
 Nombre: Chocosita
 Edad: Todo
+
+Continuamos con la integracion de informacion:
+Direccion: Lugar sin banquetas
